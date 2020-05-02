@@ -1,3 +1,5 @@
+/* ОБЩИЕ СТИЛИ */
+
 body {
   font-family: "Roboto", "Arial", sans-serif;
   margin: 0 !important;
@@ -35,6 +37,8 @@ body {
   margin: 0;
   padding: 0;
 }
+
+/* ХЕДЕР */
 
 .page-header {
   margin-bottom: 40px;
@@ -101,6 +105,8 @@ body {
   color: #ffffff;
   text-align: center;
 }
+
+/* НАВИГАЦИЯ */
 
 .page-nav {
   display: flex;
@@ -195,9 +201,13 @@ body {
   animation-fill-mode: forwards;
 }
 
+/* ОСНОВНОЙ КОНТЕНТ */
+
 .page-content {
   padding-bottom: 50px;
 }
+
+/* БЛОК ОБЗОРОВ */
 
 .review {
   padding-bottom: 50px;
@@ -309,6 +319,8 @@ body {
   font-weight: 400;
   line-height: 150%;
 }
+
+/* БЛОК ЦЕН */
 
 .price {
   background-color: #f7f7f7;
@@ -509,6 +521,8 @@ body {
   height: 2px;
 }
 
+/* ФУТЕР */
+
 .footer-nav {
   background-color: #575757;
 }
@@ -608,6 +622,8 @@ body {
   animation-duration: 0.3s;
   animation-fill-mode: forwards;
 }
+
+/* БЛОК СОЦИАЛЬНЫХ СЕТЕЙ */
 
 .socials {
   display: flex;
